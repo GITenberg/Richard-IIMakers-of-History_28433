@@ -1,0 +1,33 @@
+_repo: Richard-IIMakers-of-History_28433
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Abbott, Jacob
+    aliases:
+    - Marianne
+    - Erodore
+    birthdate: 1803
+    deathdate: 1879
+    gutenberg_agent_id: '2136'
+    url: http://www.gutenberg.org/2009/agents/2136
+    wikipedia: http://en.wikipedia.org/wiki/Jacob_Abbott
+description: ''
+gutenberg_issued: '2009-03-29'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '28433'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Richard II, King of England, 1367-1400'
+- !lcc 'DA'
+- !lcsh 'Great Britain -- History -- Richard II, 1377-1399'
+title: 'Richard II
+
+  Makers of History'
+url: http://www.gutenberg.org/ebooks/28433
